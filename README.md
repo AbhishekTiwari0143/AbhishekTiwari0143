@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekTiwari
+- 👋 Hi, I’m AbhishekTiwari
 - 🌱 I’m currently learning ...
 
 <!---
